@@ -1,1 +1,3 @@
 Each file has a testing main.
+Also creates an output file for the dot
+program in order to visualize the tree.
